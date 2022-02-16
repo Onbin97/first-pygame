@@ -1,5 +1,4 @@
 from random import*
-from turtle import width
 import pygame 
 ###################################################
 # 기본 초기화
